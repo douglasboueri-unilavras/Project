@@ -1,0 +1,78 @@
+C:\Users\Douglas Boueri\projetoTesteMVC\Teste\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Douglas Boueri\projetoTesteMVC\Teste\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Douglas Boueri\projetoTesteMVC\Teste\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Douglas Boueri\projetoTesteMVC\Teste\bin\Debug\netcoreapp3.1\Teste.exe
+C:\Users\Douglas Boueri\projetoTesteMVC\Teste\bin\Debug\netcoreapp3.1\Teste.deps.json
+C:\Users\Douglas Boueri\projetoTesteMVC\Teste\bin\Debug\netcoreapp3.1\Teste.runtimeconfig.json
+C:\Users\Douglas Boueri\projetoTesteMVC\Teste\bin\Debug\netcoreapp3.1\Teste.runtimeconfig.dev.json
+C:\Users\Douglas Boueri\projetoTesteMVC\Teste\bin\Debug\netcoreapp3.1\Teste.dll
+C:\Users\Douglas Boueri\projetoTesteMVC\Teste\bin\Debug\netcoreapp3.1\Teste.pdb
+C:\Users\Douglas Boueri\projetoTesteMVC\Teste\bin\Debug\netcoreapp3.1\Teste.Views.dll
+C:\Users\Douglas Boueri\projetoTesteMVC\Teste\bin\Debug\netcoreapp3.1\Teste.Views.pdb
+C:\Users\Douglas Boueri\projetoTesteMVC\Teste\obj\Debug\netcoreapp3.1\Teste.csprojAssemblyReference.cache
+C:\Users\Douglas Boueri\projetoTesteMVC\Teste\obj\Debug\netcoreapp3.1\Teste.AssemblyInfoInputs.cache
+C:\Users\Douglas Boueri\projetoTesteMVC\Teste\obj\Debug\netcoreapp3.1\Teste.AssemblyInfo.cs
+C:\Users\Douglas Boueri\projetoTesteMVC\Teste\obj\Debug\netcoreapp3.1\Teste.csproj.CoreCompileInputs.cache
+C:\Users\Douglas Boueri\projetoTesteMVC\Teste\obj\Debug\netcoreapp3.1\Teste.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Douglas Boueri\projetoTesteMVC\Teste\obj\Debug\netcoreapp3.1\Teste.RazorAssemblyInfo.cache
+C:\Users\Douglas Boueri\projetoTesteMVC\Teste\obj\Debug\netcoreapp3.1\Teste.RazorAssemblyInfo.cs
+C:\Users\Douglas Boueri\projetoTesteMVC\Teste\obj\Debug\netcoreapp3.1\Teste.TagHelpers.input.cache
+C:\Users\Douglas Boueri\projetoTesteMVC\Teste\obj\Debug\netcoreapp3.1\Teste.TagHelpers.output.cache
+C:\Users\Douglas Boueri\projetoTesteMVC\Teste\obj\Debug\netcoreapp3.1\Teste.RazorCoreGenerate.cache
+C:\Users\Douglas Boueri\projetoTesteMVC\Teste\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Douglas Boueri\projetoTesteMVC\Teste\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Douglas Boueri\projetoTesteMVC\Teste\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Douglas Boueri\projetoTesteMVC\Teste\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Douglas Boueri\projetoTesteMVC\Teste\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Douglas Boueri\projetoTesteMVC\Teste\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Douglas Boueri\projetoTesteMVC\Teste\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Douglas Boueri\projetoTesteMVC\Teste\obj\Debug\netcoreapp3.1\Teste.RazorTargetAssemblyInfo.cache
+C:\Users\Douglas Boueri\projetoTesteMVC\Teste\obj\Debug\netcoreapp3.1\Teste.RazorTargetAssemblyInfo.cs
+C:\Users\Douglas Boueri\projetoTesteMVC\Teste\obj\Debug\netcoreapp3.1\Teste.Views.pdb
+C:\Users\Douglas Boueri\projetoTesteMVC\Teste\obj\Debug\netcoreapp3.1\staticwebassets\Teste.StaticWebAssets.Manifest.cache
+C:\Users\Douglas Boueri\projetoTesteMVC\Teste\obj\Debug\netcoreapp3.1\staticwebassets\Teste.StaticWebAssets.xml
+C:\Users\Douglas Boueri\projetoTesteMVC\Teste\obj\Debug\netcoreapp3.1\Teste.dll
+C:\Users\Douglas Boueri\projetoTesteMVC\Teste\obj\Debug\netcoreapp3.1\Teste.pdb
+C:\Users\Douglas Boueri\projetoTesteMVC\Teste\obj\Debug\netcoreapp3.1\Teste.genruntimeconfig.cache
+C:\Users\Douglas Boueri\projetoTesteMVC\Teste\obj\Debug\netcoreapp3.1\Teste.csproj.CopyComplete
+C:\Users\Douglas Boueri\projetoTesteMVC\Teste\obj\Debug\netcoreapp3.1\Razor\Views\Apresentacao\index.cshtml.g.cs
+C:\Users\Douglas Boueri\projetoTesteMVC\Teste\obj\Debug\netcoreapp3.1\Razor\Views\Apresentacao\Profissao.cshtml.g.cs
+C:\Teste\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Teste\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Teste\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Teste\bin\Debug\netcoreapp3.1\Teste.exe
+C:\Teste\bin\Debug\netcoreapp3.1\Teste.deps.json
+C:\Teste\bin\Debug\netcoreapp3.1\Teste.runtimeconfig.json
+C:\Teste\bin\Debug\netcoreapp3.1\Teste.runtimeconfig.dev.json
+C:\Teste\bin\Debug\netcoreapp3.1\Teste.dll
+C:\Teste\bin\Debug\netcoreapp3.1\Teste.pdb
+C:\Teste\bin\Debug\netcoreapp3.1\Teste.Views.dll
+C:\Teste\bin\Debug\netcoreapp3.1\Teste.Views.pdb
+C:\Teste\obj\Debug\netcoreapp3.1\Teste.csprojAssemblyReference.cache
+C:\Teste\obj\Debug\netcoreapp3.1\Teste.AssemblyInfoInputs.cache
+C:\Teste\obj\Debug\netcoreapp3.1\Teste.AssemblyInfo.cs
+C:\Teste\obj\Debug\netcoreapp3.1\Teste.csproj.CoreCompileInputs.cache
+C:\Teste\obj\Debug\netcoreapp3.1\Teste.MvcApplicationPartsAssemblyInfo.cache
+C:\Teste\obj\Debug\netcoreapp3.1\Teste.RazorAssemblyInfo.cache
+C:\Teste\obj\Debug\netcoreapp3.1\Teste.RazorAssemblyInfo.cs
+C:\Teste\obj\Debug\netcoreapp3.1\Teste.TagHelpers.input.cache
+C:\Teste\obj\Debug\netcoreapp3.1\Teste.TagHelpers.output.cache
+C:\Teste\obj\Debug\netcoreapp3.1\Teste.RazorCoreGenerate.cache
+C:\Teste\obj\Debug\netcoreapp3.1\Razor\Views\Apresentacao\index.cshtml.g.cs
+C:\Teste\obj\Debug\netcoreapp3.1\Razor\Views\Apresentacao\Profissao.cshtml.g.cs
+C:\Teste\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Teste\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Teste\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Teste\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Teste\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Teste\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Teste\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Teste\obj\Debug\netcoreapp3.1\Teste.RazorTargetAssemblyInfo.cache
+C:\Teste\obj\Debug\netcoreapp3.1\Teste.RazorTargetAssemblyInfo.cs
+C:\Teste\obj\Debug\netcoreapp3.1\Teste.Views.pdb
+C:\Teste\obj\Debug\netcoreapp3.1\staticwebassets\Teste.StaticWebAssets.Manifest.cache
+C:\Teste\obj\Debug\netcoreapp3.1\staticwebassets\Teste.StaticWebAssets.xml
+C:\Teste\obj\Debug\netcoreapp3.1\Teste.dll
+C:\Teste\obj\Debug\netcoreapp3.1\Teste.pdb
+C:\Teste\obj\Debug\netcoreapp3.1\Teste.genruntimeconfig.cache
+C:\Teste\obj\Debug\netcoreapp3.1\Teste.csproj.CopyComplete
